@@ -1,0 +1,8 @@
+저택의 악몽 PWA 웹사이트 파일
+
+1. 이 폴더 전체를 HTTPS가 되는 웹호스팅(GitHub Pages, Netlify, Vercel 등)에 업로드하세요.
+2. index.html이 사이트의 시작 파일입니다.
+3. 반드시 index.html, manifest.webmanifest, service-worker.js, 아이콘 파일을 같은 경로에 두세요.
+4. 휴대폰에서 HTTPS 주소로 접속하면 브라우저가 앱 설치를 지원할 수 있습니다.
+5. Android Chrome: 설치 버튼이 나타나면 눌러 홈 화면에 추가하세요.
+6. iPhone/iPad Safari: 공유 버튼 → 홈 화면에 추가를 선택하세요.
